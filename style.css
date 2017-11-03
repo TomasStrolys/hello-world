@@ -1,8 +1,11 @@
+
+@import url("https://fonts.googleapis.com/css?family=Open+Sans")
+*{ font-family: font-family: 'Open Sans', sans-serif;
+}
 table{
 	border-collapse: collapse;
 }
 
-table th{ 
      text-align: left;
      background-color: #3a6070;
      color: #FFF;
